@@ -7,6 +7,7 @@ Zoomify is a jQuery plugin for simple lightboxes with zoom effect and rotation o
 Check out the examples page: [http://indrimuska.github.io/zoomify](http://indrimuska.github.io/zoomify).
 
 ![Zoomify: jQuery Plugin for lightboxes](http://indrimuska.github.io/zoomify/img/zoomify-preview.png)
+![Rotation](https://github.com/user-attachments/assets/b395c8ed-a9d7-4187-835b-5b0a36d99180)
 
 ## Installation
 
